@@ -7,7 +7,6 @@ using namespace std;
 int main() {
     // day 1
     // working making the system for opening the output and input file
-    // also add the fucntionality of boiler plate
     ifstream inputFile("input.cpp");
     ofstream outputFile("output.java");
 
